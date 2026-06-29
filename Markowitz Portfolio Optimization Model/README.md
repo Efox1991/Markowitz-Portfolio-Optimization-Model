@@ -66,7 +66,7 @@ Compatible versions at or above those listed should work without issue.
 
 All user-facing configuration sits at the top of the script, below the function definitions:
 
-pythontickers = \["AAPL", "NKE", "GOOGL", "AMZN"]  # assets to include in the portfolio
+pythontickers = \['IBM', 'AAPL', 'NKE', 'NFLX', 'GOOGL', 'AMZN']  # assets to include in the portfolio
 
 start\_date = '2024-01-01'                         # start of the historical window
 
